@@ -28,4 +28,5 @@
 
 ## 5장 순환 신경망(RNN)
 
-- chapter5.3: RNN 구현 
+- chapter5.3: RNN 구현
+- chapter5.5: RNNLM 학습과 평가

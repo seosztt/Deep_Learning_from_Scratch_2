@@ -30,3 +30,7 @@
 
 - chapter5.3: RNN 구현
 - chapter5.5: RNNLM 학습과 평가
+
+## 6장 게이트가 추가된 RNN
+
+- chapter6.1: RNN의 문제점

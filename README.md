@@ -34,3 +34,4 @@
 ## 6장 게이트가 추가된 RNN
 
 - chapter6.1: RNN의 문제점
+- chapter6.3: LSTM 구현

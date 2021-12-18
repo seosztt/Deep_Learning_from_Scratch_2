@@ -35,3 +35,5 @@
 
 - chapter6.1: RNN의 문제점
 - chapter6.3: LSTM 구현
+- chapter6.4: LSTM을 사용한 언어 모델
+- chapter6.5: RNNLM 추가 개선

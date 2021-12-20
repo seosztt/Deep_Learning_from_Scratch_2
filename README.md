@@ -43,3 +43,9 @@
 - chapter7.1: 언어 모델을 사용한 문장 생성
 - chapter7.2: seq2seq
 - chapter7.3: seq2seq 구현
+
+- chapter7.4: seq2seq 개선
+
+## 8장 어텐션
+
+- chapter8.1: 어텐션의 구조

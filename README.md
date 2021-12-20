@@ -37,3 +37,9 @@
 - chapter6.3: LSTM 구현
 - chapter6.4: LSTM을 사용한 언어 모델
 - chapter6.5: RNNLM 추가 개선
+
+## 7장 RNN을 사용한 문장 생성
+
+- chapter7.1: 언어 모델을 사용한 문장 생성
+- chapter7.2: seq2seq
+- chapter7.3: seq2seq 구현

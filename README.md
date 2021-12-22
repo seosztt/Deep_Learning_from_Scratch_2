@@ -49,3 +49,5 @@
 ## 8장 어텐션
 
 - chapter8.1: 어텐션의 구조
+- chapter8.2: 어텐션을 갖춘 seq2seq 구현
+- chapter8.3: 어텐션 평가
